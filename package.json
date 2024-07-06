@@ -1,12 +1,13 @@
 {
   "name": "helpers-skills",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "created for students",
-  "main": "./src/helpers/fundamentos.js",
+  "main": "./src/helpers/fundamentals.js",
   "scripts": {
-    "dev": "node ./src/helpers/fundamentos.js",
+    "dev": "node ./src/helpers/fundamentals.js",
     "api": "node ./src/helpers/api.js",
-    "innerhtml": "node ./src/helpers/innerhtml.js"
+    "innerhtml": "node ./src/helpers/innerhtml.js",
+    "destructuring": "node ./src/helpers/destructuring.js"
   },
   "keywords": [],
   "repository": {
