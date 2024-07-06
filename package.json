@@ -5,7 +5,8 @@
   "main": "./src/helpers/fundamentos.js",
   "scripts": {
     "dev": "node ./src/helpers/fundamentos.js",
-    "api": "node ./src/helpers/api.js"
+    "api": "node ./src/helpers/api.js",
+    "innerhtml": "node ./src/helpers/innerhtml.js"
   },
   "keywords": [],
   "repository": {
