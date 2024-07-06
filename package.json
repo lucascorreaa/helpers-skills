@@ -4,7 +4,8 @@
   "description": "created for students",
   "main": "./src/helpers/fundamentos.js",
   "scripts": {
-    "dev": "node ./src/helpers/fundamentos.js"
+    "dev": "node ./src/helpers/fundamentos.js",
+    "api": "node ./src/helpers/api.js"
   },
   "keywords": [],
   "repository": {
