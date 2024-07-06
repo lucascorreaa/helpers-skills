@@ -1,0 +1,15 @@
+{
+  "name": "helpers-skills",
+  "version": "0.0.1",
+  "description": "created for students",
+  "main": "./src/helpers/fundamentos.js",
+  "scripts": {
+    "dev": "node ./src/helpers/fundamentos.js"
+  },
+  "keywords": [],
+  "repository": {
+    "url": "https://github.com/lucascorreaa/helpers-skills"
+  },
+  "author": "https://github.com/lucascorreaa",
+  "license": "ISC"
+}
