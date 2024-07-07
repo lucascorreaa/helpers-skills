@@ -1,7 +1,7 @@
 {
   "name": "helpers-skills",
   "version": "0.0.2",
-  "description": "created for students",
+  "description": "Created for students",
   "main": "./src/helpers/fundamentals.js",
   "scripts": {
     "dev": "node ./src/helpers/fundamentals.js",
@@ -9,10 +9,25 @@
     "innerhtml": "node ./src/helpers/innerhtml.js",
     "destructuring": "node ./src/helpers/destructuring.js"
   },
-  "keywords": [],
+  "keywords": ["JavaScript", "study", "helpers", "skills"],
   "repository": {
-    "url": "https://github.com/lucascorreaa/helpers-skills"
+    "type": "git",
+    "url": "https://github.com/lucascorreaa/helpers-skills.git"
   },
-  "author": "https://github.com/lucascorreaa",
-  "license": "ISC"
+  "bugs": {
+    "url": "https://github.com/lucascorreaa/helpers-skills/issues"
+  },
+  "homepage": "https://github.com/lucascorreaa/helpers-skills#readme",
+  "author": "Lucas Correa",
+  "license": "ISC",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "contributors": [
+    {
+      "name": "Lucas Correa",
+      "url": "https://github.com/lucascorreaa"
+    }
+  ],
+  "dependencies": {}
 }
