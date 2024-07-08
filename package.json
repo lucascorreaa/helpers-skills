@@ -7,7 +7,8 @@
     "dev": "node ./src/helpers/fundamentals.js",
     "api": "node ./src/helpers/api.js",
     "innerhtml": "node ./src/helpers/innerhtml.js",
-    "destructuring": "node ./src/helpers/destructuring.js"
+    "destructuring": "node ./src/helpers/destructuring.js",
+    "map": "node ./src/helpers/map.js"
   },
   "keywords": ["JavaScript", "study", "helpers", "skills"],
   "repository": {
