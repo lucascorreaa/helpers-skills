@@ -8,7 +8,8 @@
     "api": "node ./src/helpers/api.js",
     "innerhtml": "node ./src/helpers/innerhtml.js",
     "destructuring": "node ./src/helpers/destructuring.js",
-    "map": "node ./src/helpers/map.js"
+    "map": "node ./src/helpers/map.js",
+    "forEach": "node ./src/helpers/forEach.js"
   },
   "keywords": ["JavaScript", "study", "helpers", "skills"],
   "repository": {
