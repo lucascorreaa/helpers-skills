@@ -9,9 +9,10 @@
     "innerhtml": "node ./src/helpers/innerhtml.js",
     "destructuring": "node ./src/helpers/destructuring.js",
     "map": "node ./src/helpers/map.js",
-    "forEach": "node ./src/helpers/forEach.js"
+    "forEach": "node ./src/helpers/forEach.js",
+    "conditionais": "node ./src/helpers/forEach.js"
   },
-  "keywords": ["JavaScript", "study", "helpers", "skills"],
+  "keywords": ["javascript", "study", "helpers", "skills"],
   "repository": {
     "type": "git",
     "url": "https://github.com/lucascorreaa/helpers-skills.git"
