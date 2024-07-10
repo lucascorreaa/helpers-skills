@@ -10,7 +10,7 @@
     "destructuring": "node ./src/helpers/destructuring.js",
     "map": "node ./src/helpers/map.js",
     "forEach": "node ./src/helpers/forEach.js",
-    "conditionais": "node ./src/helpers/forEach.js"
+    "condicionais": "node ./src/helpers/condicionais.js"
   },
   "keywords": ["javascript", "study", "helpers", "skills"],
   "repository": {
